@@ -1,0 +1,74 @@
+﻿body{ background:#FFF;font-family:Arial,Helvetica,sans-serif;}
+
+.jiechi{font-size:0.42rem;width:100%; margin:0 auto;display:block; color:#333; text-align: center;overflow: hidden;}
+.jiechi a{ font-size:0.4rem; line-height:1rem; text-transform:none; color:#073eda}
+.jiechi img{ width:100%; height:100%;}
+.jieshao{width:100%; position:fixed; left:0; bottom:-0.24rem;}
+.jiechi .logo {
+  margin-top: 0.3rem;
+}
+.jiechi .logo img {
+  width: 0.5rem;
+  height: 0.57rem;
+  position: relative;
+  top: 0.1rem;
+  margin-right: 0.15rem;
+}
+.explanation{
+  font-size: 0.35rem;
+  color: #666;
+  line-height: 0.8rem;
+  width: 92%;
+  margin: 0 auto 4.5rem;
+}
+.explanation .title {
+  margin: 0.2rem auto 0.6rem;
+  text-align: center;
+}
+.explanation .title img {
+  display: block;
+  margin: 0 auto;
+  width: 1.8rem;
+  height: 0.8rem;
+}
+.explanation .title span {
+  display: inline-block;
+  font-size: 0.6rem;
+  margin-top: 0.35rem;
+  color: rgb(228, 126, 20);
+}
+.explanation .title i {
+  font-style: normal;
+  font-size: 0.7rem;
+}
+.explanation img {
+  display: block;
+  margin: 0.4rem auto;
+  width: 70%;
+}
+.explanation .img img {
+  width: 90%;
+}
+
+.footer2 {
+  position: fixed;
+  background: #fff;
+  padding: 0 0.3rem;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-size: 0.42rem;
+  text-align: center;
+  box-shadow: 0.2rem 0.2rem 0.3rem #333;
+}
+.footer2 a {
+  display: block;
+  width: 90%;
+  height: 1.1rem;
+  margin: 0.5rem auto;
+  background-image: linear-gradient(to top, rgb(255,159,10),rgb(252,185,41));
+  color: #333;
+  border-radius: 0.55rem;
+  line-height: 1.1rem;
+  position: relative;
+}
