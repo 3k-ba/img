@@ -41,7 +41,7 @@ if (is_weixin()) {
     $("#" + osName + "_tips").show()
 }
 
-if (isiOS && (isQQBrowser()||isUCBrowser()||isFirefoxBrowser())) {
+if (isiOS && (isQQBrowser()||isUCBrowser()||isUCBrowser()||isFirefoxBrowser())) {
     $(".weixin-tip").css("height", getScreenHeight());
     $(".weixin-tip").show();
     $("#" + osName + "_tips").show()
