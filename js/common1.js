@@ -162,7 +162,7 @@ function isQQBrowser() {
     //     return true
     // }
     // Android QQ内置浏览器
-    if(agent.indexOf('mqqbrowser')>-1){
+    if(agent.indexOf(' qq')>-1){
         return true;
     }
 
